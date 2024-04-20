@@ -1,0 +1,102 @@
+[("https://www.mulinolab301.com/prodotto/il-grano-tenero-biologico-lab-selection/", 'product', "Il Grano Tenero Biologico Lab Selection", "Food"),
+("http://www.pcelec.cn/Slow-juicer_p934.html", 'product', "Slow Juicer", "Kitchen Appliances"),
+("https://www.phida-lighting.com/PH-LED600-1530-pd40562459.html", 'product', "PH-LED600-1530", "Lighting"),
+("https://www.polylighting.net/en/eclairage-piscine/174-spot-encastre-inox-93w-power-led-24vdc.html", 'product', "Spot Encastré Inox 9.3W Power LED 24VDC", "Pool Lighting"),
+("http://www.mingleehk.com/index.php?route=product/product&product_id=576", 'product', "Product ID 576", "General"),
+("https://www.wtcmachinery.com/products/hydraulic-cylinder-repair-stands/hcrs-1c-medium-duty", 'product', "HCRS-1C Medium Duty Hydraulic Cylinder Repair Stand", "Machinery"),
+("https://www.linearcircle.com/product/venture-line-vintage-atomic-egg-chair-bluetooth-enabled", 'product', "Venture Line Vintage Atomic Egg Chair Bluetooth Enabled", "Furniture"),
+("https://www.sellosdegomaonline.com/sellos-para-ropa/?mobile=1", 'product', "Sellos Para Ropa", "Office Supplies"),
+("https://www.trampoline-shop.de/trampolin/trampoline-360-366-cm.html", 'product', "Trampoline 360-366 cm", "Sports Equipment"),
+("http://www.indiaunozero.it/catalogo/Fari-di-Ricerca-e-Perimetrali/Torri-Faro.aspx", 'product', "Torri Faro", "Lighting Equipment"),
+("https://au.podandparcel.com/extras/fressko-bino-cup/fressko-bino-cup-snow", 'product', "Fressko Bino Cup Snow", "Drinkware"),
+("https://www.sonpin.com.tw/product/14386?page=1", 'product', "Product ID 14386", "Electronics"),
+("https://amionindia.com/product-category/fogging-machine/", 'product', None, "Machinery"),
+("https://pcelec.cn/injection-line.html", 'none', None, None),
+("https://arkpol.org.pl/index.php/o-firmie", 'none', None, None),
+("https://dks.com.vn/article.asp?id=103&vong-bi-ntn-chinh-hang.html", 'none', None, None),
+("https://www.coastlinecomposites.com/market/frp-commuter-rail/frp-ada-accessibility-rail-platforms/", 'none', None, None),
+("https://www.gewaechshausprofi.com/hochbeet-anlegen-guenstig-schichten-garten-gemuese/", 'none', None, None),
+("https://www.toconeos.cz/luzkoviny-z-ovci-vlny-francouzska-deka-basic-wool:dotaz/", 'none', None, None),
+("https://www.templari.com/documentazione/page/6/?orderby=file&orderdir=desc", 'none', None, None),
+("http://ampeg.com.cn/report/", 'none', None, None),
+("http://www.indiaunozero.it/catalogo/Faretti-Lampeggianti.aspx", 'none', None, None),
+("https://www.armonia-shop.ch/Faerbende-Lebensmittel/", 'none', None, None),
+("https://craveforride.com/pages/retailers-list", 'none', None, None),
+("https://zo-on.is/collections/black-label", 'none', None, None)]
+("http://www.indiaunozero.it/catalogo/Barre-Lampeggianti-Ambra.aspx", "none", "", "")
+("https://hardyshapes.com/collections/all-boards/products/lilly-pollard-blue-nrg", "product", "Lilly Pollard Blue NRG", "all-boards")
+("https://www.bigmikes.de/tonka-vanillezucker", "none", "", "")
+("https://everjoys.com/tags/index.html", "none", "", "")
+("https://www.copperchef.com.tw/products/kc20016-23200", "product", "kc20016-23200", "products")
+("https://www.arteck-design.fr/seminaire-annuel-2023/", "none", "", "")
+("https://africandreamfoods.com/products/spicy-yet-sweet-variety-3-pack", "product", "Spicy Yet Sweet Variety 3-Pack", "products")
+("https://jonnarcisso.com/products/i-have-an-attitude-problem", "product", "I Have An Attitude Problem", "products")
+("https://reverendbow.wordpress.com/tag/wilson-1000/", "none", "", "")
+("https://www.japan-star.com/wash_pro", "none", "", "")
+("https://www.bobscustomplates.com/product-page/prs-usa-backplate-tremolo-and-truss-set", "product", "PRS USA Backplate Tremolo and Truss Set", "product-page")
+("https://weingut-schaefer-zimmermann.myshopify.com/products/2021er-terra-luna-trauben-secco-naturtrub", "product", "2021er Terra Luna Trauben Secco Naturtrub", "products")
+("https://www.digitalprintea.com/timbri/", "none", "", "")
+("https://reverendbow.wordpress.com/tag/mag-mount/", "none", "", "")
+("https://laundry-alternative.com/products/poseidon-portable-washer-with-real-agitator-unique-foldup-design", "product", "Poseidon Portable Washer with Real Agitator Unique Foldup Design", "products")
+("https://www.qpoindia.com/product-page/innova-crysta-automatic", "product", "Innova Crysta Automatic", "product-page")
+("https://www.dox.co.nz/index.php?route=account/return/add", "none", "", "")
+("https://flymount.com/nick-van-remoortel-sails-in-tenerife-with-flymount/?query-0-page=1&cst", "none", "", "")
+("http://www.muranoglassindia.com/product/bespoke-17/", "product", "Bespoke 17", "product")
+("https://midenmedical.com.au/portfolio-view/flow-meter-hand-wheel-kits-18-npt-nipple/", "none", "", "")
+("https://reverendbow.wordpress.com/tag/multi-mode-cb/", "none", "", "")
+("https://arteymanos.cl/product-category/anillos/", "none", "", "product-category")
+("https://arteymanos.cl/category/healthy/", "none", "", "")
+("https://www.kjma-system.com/support/dokumentasjon", "none", "", "")
+("https://www.legaton.it/l171-set-notebook-con-elastico/", "product", "L171 Set Notebook con Elastico", "product")
+[
+    ("https://pcelec.cn/injection-line.html", "none", "", ""),
+    ("https://arkpol.org.pl/index.php/o-firmie", "none", "", ""),
+    ("https://www.mulinolab301.com/prodotto/il-grano-tenero-biologico-lab-selection/", "product", "Il grano tenero biologico Lab Selection", ""),
+    ("http://www.pcelec.cn/Slow-juicer_p934.html", "product", "Slow juicer", ""),
+    ("https://dks.com.vn/article.asp?id=103&vong-bi-ntn-chinh-hang.html", "none", "", ""),
+    ("https://www.coastlinecomposites.com/market/frp-commuter-rail/frp-ada-accessibility-rail-platforms/", "none", "", "frp commuter rail"),
+    ("https://www.phida-lighting.com/PH-LED600-1530-pd40562459.html", "product", "PH-LED600-1530", ""),
+    ("https://www.polylighting.net/en/eclairage-piscine/174-spot-encastre-inox-93w-power-led-24vdc.html", "product", "Spot encastré inox 93W Power LED 24VDC", "eclairage piscine"),
+    ("https://www.gewaechshausprofi.com/hochbeet-anlegen-guenstig-schichten-garten-gemuese/", "none", "", ""),
+    ("http://www.mingleehk.com/index.php?route=product/product&product_id=576", "product", "Product ID 576", ""),
+    ("https://www.toconeos.cz/luzkoviny-z-ovci-vlny-francouzska-deka-basic-wool:dotaz/", "none", "", ""),
+    ("https://www.templari.com/documentazione/page/6/?orderby=file&orderdir=desc", "none", "", ""),
+    ("http://ampeg.com.cn/report/", "none", "", ""),
+    ("https://amionindia.com/product-category/fogging-machine/", "product", "Fogging machines", "fogging machine"),
+    ("https://www.wtcmachinery.com/products/hydraulic-cylinder-repair-stands/hcrs-1c-medium-duty", "product", "HCRS-1C Medium Duty Hydraulic Cylinder Repair Stands", "hydraulic cylinder repair stands"),
+    ("https://www.linearcircle.com/product/venture-line-vintage-atomic-egg-chair-bluetooth-enabled", "product", "Venture Line Vintage Atomic Egg Chair Bluetooth Enabled", ""),
+    ("https://www.sellosdegomaonline.com/sellos-para-ropa/?mobile=1", "none", "", ""),
+    ("https://www.trampoline-shop.de/trampolin/trampoline-360-366-cm.html", "product", "Trampoline 360-366 cm", "trampoline"),
+    ("http://www.indiaunozero.it/catalogo/Fari-di-Ricerca-e-Perimetrali/Torri-Faro.aspx", "product", "Torri Faro", "Fari di Ricerca e Perimetrali"),
+    ("https://au.podandparcel.com/extras/fressko-bino-cup/fressko-bino-cup-snow", "product", "Fressko Bino Cup Snow", ""),
+    ("https://www.sonpin.com.tw/product/14386?page=1", "product", "Product ID 14386", ""),
+    ("http://www.indiaunozero.it/catalogo/Faretti-Lampeggianti.aspx", "none", "", ""),
+    ("https://www.armonia-shop.ch/Faerbende-Lebensmittel/", "none", "", ""),
+    ("https://craveforride.com/pages/retailers-list", "none", "", ""),
+    ("https://zo-on.is/collections/black-label", "none", "", "")
+]
+[("http://www.indiaunozero.it/catalogo/Barre-Lampeggianti-Ambra.aspx", "none", "", ""),
+("https://hardyshapes.com/collections/all-boards/products/lilly-pollard-blue-nrg", "product", "Lilly Pollard Blue NRG", "all-boards"),
+("https://www.bigmikes.de/tonka-vanillezucker", "none", "", ""),
+("https://everjoys.com/tags/index.html", "none", "", ""),
+("https://www.copperchef.com.tw/products/kc20016-23200", "product", "KC20016-23200", ""),
+("https://www.arteck-design.fr/seminaire-annuel-2023/", "none", "", ""),
+("https://africandreamfoods.com/products/spicy-yet-sweet-variety-3-pack", "product", "Spicy Yet Sweet Variety 3-Pack", ""),
+("https://jonnarcisso.com/products/i-have-an-attitude-problem", "product", "I Have an Attitude Problem", ""),
+("https://reverendbow.wordpress.com/tag/wilson-1000/", "none", "", ""),
+("https://www.japan-star.com/wash_pro", "none", "", ""),
+("https://www.bobscustomplates.com/product-page/prs-usa-backplate-tremolo-and-truss-set", "product", "PRS USA Backplate Tremolo and Truss Set", ""),
+("https://weingut-schaefer-zimmermann.myshopify.com/products/2021er-terra-luna-trauben-secco-naturtrub", "product", "2021er Terra Luna Trauben Secco Naturtrub", ""),
+("https://www.digitalprintea.com/timbri/", "none", "", ""),
+("https://reverendbow.wordpress.com/tag/mag-mount/", "none", "", ""),
+("https://laundry-alternative.com/products/poseidon-portable-washer-with-real-agitator-unique-foldup-design", "product", "Poseidon Portable Washer with Real Agitator Unique Foldup Design", ""),
+("https://www.qpoindia.com/product-page/innova-crysta-automatic", "product", "Innova Crysta Automatic", ""),
+("https://www.dox.co.nz/index.php?route=account/return/add", "none", "", ""),
+("https://flymount.com/nick-van-remoortel-sails-in-tenerife-with-flymount/?query-0-page=1&cst", "none", "", ""),
+("http://www.muranoglassindia.com/product/bespoke-17/", "product", "Bespoke 17", ""),
+("https://midenmedical.com.au/portfolio-view/flow-meter-hand-wheel-kits-18-npt-nipple/", "none", "", ""),
+("https://reverendbow.wordpress.com/tag/multi-mode-cb/", "none", "", ""),
+("https://arteymanos.cl/product-category/anillos/", "none", "", "anillos"),
+("https://arteymanos.cl/category/healthy/", "none", "", "healthy"),
+("https://www.kjma-system.com/support/dokumentasjon", "none", "", ""),
+("https://www.legaton.it/l171-set-notebook-con-elastico/", "none", "", "")]

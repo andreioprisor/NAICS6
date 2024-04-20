@@ -1,0 +1,21 @@
+('http://www.indiaunozero.it/catalogo/Barre-Lampeggianti-Ambra.aspx', 'product', 'Barre Lampeggianti Ambra', 'category')
+
+1. https://hardyshapes.com/collections/all-boards/products/lilly-pollard-blue-nrg - (Url, 'product', 'lilly-pollard-blue-nrg', 'category')
+2. https://www.bigmikes.de/tonka-vanillezucker - (Url, 'product', 'tonka-vanillezucker', 'category')
+3. https://www.copperchef.com.tw/products/kc20016-23200 - (Url, 'product', 'kc20016-23200', 'category')
+4. https://africandreamfoods.com/products/spicy-yet-sweet-variety-3-pack - (Url, 'product', 'spicy-yet-sweet-variety-3-pack', 'category')
+5. https://jonnarcisso.com/products/i-have-an-attitude-problem - (Url, 'product', 'i-have-an-attitude-problem', 'category')
+6. https://www.bobscustomplates.com/product-page/prs-usa-backplate-tremolo-and-truss-set - (Url, 'product', 'prs-usa-backplate-tremolo-and-truss-set', 'category')
+
+1. https://weingut-schaefer-zimmermann.myshopify.com/products/2021er-terra-luna-trauben-secco-naturtrub - product - 2021er Terra Luna Trauben Secco Naturtrub - category
+4. https://laundry-alternative.com/products/poseidon-portable-washer-with-real-agitator-unique-foldup-design - product - Poseidon Portable Washer with Real Agitator Unique Foldup Design - category
+5. https://www.qpoindia.com/product-page/innova-crysta-automatic - product - Innova Crysta Automatic - category
+7. http://www.muranoglassindia.com/product/bespoke-17/ - product - Bespoke 17 - category
+8. https://midenmedical.com.au/portfolio-view/flow-meter-hand-wheel-kits-18-npt-nipple/ - product - Flow Meter Hand Wheel Kits - category
+
+1. (https://arteymanos.cl/product-category/anillos/, 'product', 'anillos', 'category')
+2. (https://www.legaton.it/l171-set-notebook-con-elastico/, 'product', 'l171-set-notebook-con-elastico', 'none')
+3. (https://inessescandles.com/lv/produkta-birka/chakra/, 'product', 'chakra', 'produkta-birka')
+4. (https://www.thelichenist.com/shop/taproot-madrone-necklace?category=Necklaces, 'product', 'taproot-madrone-necklace', 'shop')
+5. (https://hinoleyte.com.ph/parts-inquiry/, 'none', 'none', 'none')
+

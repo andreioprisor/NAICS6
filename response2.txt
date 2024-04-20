@@ -1,0 +1,55 @@
+Based on the analyzing the URLs, here's the classification of each URL according to whether they likely lead to a specific product page, a product category page, or neither (general information, company details, etc.):
+
+1. https://pcelec.cn/injection-line.html - 'none' (Seems more like a specific page or article)
+2. https://arkpol.org.pl/index.php/o-firmie - 'none' (About company/organization)
+3. https://www.mulinolab301.com/prodotto/il-grano-tenero-biologico-lab-selection/ - 'product'
+4. http://www.pcelec.cn/Slow-juicer_p934.html - 'product'
+5. https://dks.com.vn/article.asp?id=103&vong-bi-ntn-chinh-hang.html - 'none' (Seems more like an article or post)
+6. https://www.coastlinecomposites.com/market/frp-commuter-rail/frp-ada-accessibility-rail-platforms/ - 'product category'
+7. https://www.phida-lighting.com/PH-LED600-1530-pd40562459.html - 'product'
+8. https://www.polylighting.net/en/eclairage-piscine/174-spot-encastre-inox-93w-power-led-24vdc.html - 'product'
+9. https://www.gewaechshausprofi.com/hochbeet-anlegen-guenstig-schichten-garten-gemuese/ - 'none' (Article/guide)
+10. http://www.mingleehk.com/index.php?route=product/product&product_id=576 - 'product'
+11. https://www.toconeos.cz/luzkoviny-z-ovci-vlny-francouzska-deka-basic-wool:dotaz/ - 'product'
+12. https://www.templari.com/documentazione/page/6/?orderby=file&orderdir=desc - 'none' (documentation or files)
+13. http://ampeg.com.cn/report/ - 'none' (Reports or corporate info)
+14. https://amionindia.com/product-category/fogging-machine/ - 'product category'
+15. https://www.wtcmachinery.com/products/hydraulic-cylinder-repair-stands/hcrs-1c-medium-duty - 'product'
+16. https://www.linearcircle.com/product/venture-line-vintage-atomic-egg-chair-bluetooth-enabled - 'product'
+17. https://www.sellosdegomaonline.com/sellos-para-ropa/?mobile=1 - 'product category' 
+18. https://www.trampoline-shop.de/trampolin/trampoline-360-366-cm.html - 'product category'
+19. http://www.indiaunozero.it/catalogo/Fari-di-Ricerca-e-Perimetrali/Torri-Faro.aspx - 'product category'
+20. https://au.podandparcel.com/extras/fressko-bino-cup/fressko-bino-cup-snow - 'product'
+21. https://www.sonpin.com.tw/product/14386?page=1 - 'product'
+22. http://www.indiaunozero.it/catalogo/Faretti-Lampeggianti.aspx - 'product category'
+23. https://www.armonia-shop.ch/Faerbende-Lebensmittel/ - 'product category'
+24. https://craveforride.com/pages/retailers-list - 'none' (Retailer list)
+25. https://zo-on.is/collections/black-label - 'product category'
+
+This classification helps in identifying which URLs are direct product links, which are broader categories (possibly containing multiple products), and which are neither, serving different content.Based on analyzing the structure of the URLs and recognizing patterns that indicate whether they are likely meant for product details, product categories, or neither, the resulting pairs categorizing each URL are as follows:
+
+1. (http://www.indiaunozero.it/catalogo/Barre-Lampeggianti-Ambra.aspx, 'product')
+2. (https://hardyshapes.com/collections/all-boards/products/lilly-pollard-blue-nrg, 'product')
+3. (https://www.bigmikes.de/tonka-vanillezucker, 'none')
+4. (https://everjoys.com/tags/index.html, 'none')
+5. (https://www.copperchef.com.tw/products/kc20016-23200, 'product')
+6. (https://www.arteck-design.fr/seminaire-annuel-2023/, 'none')
+7. (https://africandreamfoods.com/products/spicy-yet-sweet-variety-3-pack, 'product')
+8. (https://jonnarcisso.com/products/i-have-an-attitude-problem, 'product')
+9. (https://reverendbow.wordpress.com/tag/wilson-1000/, 'none')
+10. (https://www.japan-star.com/wash_pro, 'none')
+11. (https://www.bobscustomplates.com/product-page/prs-usa-backplate-tremolo-and-truss-set, 'product')
+12. (https://weingut-schaefer-zimmermann.myshopify.com/products/2021er-terra-luna-trauben-secco-naturtrub, 'product')
+13. (https://www.digitalprintea.com/timbri/, 'none')
+14. (https://reverendbow.wordpress.com/tag/mag-mount/, 'none')
+15. (https://laundry-alternative.com/products/poseidon-portable-washer-with-real-agitator-unique-foldup-design, 'product')
+16. (https://www.qpoindia.com/product-page/innova-crysta-automatic, 'product')
+17. (https://www.dox.co.nz/index.php?route=account/return/add, 'none')
+18. (https://flymount.com/nick-van-remoortel-sails-in-tenerife-with-flymount/?query-0-page=1&cst, 'none')
+19. (http://www.muranoglassindia.com/product/bespoke-17/, 'product')
+20. (https://midenmedical.com.au/portfolio-view/flow-meter-hand-wheel-kits-18-npt-nipple/, 'none')
+21. (https://reverendbow.wordpress.com/tag/multi-mode-cb/, 'none')
+22. (https://arteymanos.cl/product-category/anillos/, 'product category')
+23. (https://arteymanos.cl/category/healthy/, 'product category')
+24. (https://www.kjma-system.com/support/dokumentasjon, 'none')
+25. (https://www.legaton.it/l171-set-notebook-con-elastico/, 'product')
